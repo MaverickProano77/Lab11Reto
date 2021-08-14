@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab8PST</string>
+    <string name="Inicio">INICIO</string>
+    <string name="PaginaWeb">PAGINA WEB</string>
+    <string name="Menu">MENU PRINCIPAL</string>
+    <string name="ingresarUrl">Ingrese una URL</string>
+    <string name="Buscar">BUSCAR</string>
+    <string name="Regresar">REGRESAR</string>
+    <string name="InciarSesion">INICIAR SESION</string>
+    <string name="RevisarCorreo">REVISAR CORREO</string>
+    <string name="AcercaDe">ACERCA DE</string>
+    <string name="Salida">SALIR</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingreseDatos">Ingrese sus Datos</string>
+    <string name="nombreProgramador">J. Maverick Proaño A.</string>
+    <string name="matriculaProgramador">Matricula: 201908274</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="volverMenu">MENU PRINCIPAL</string>
+    <string name="consultarcodigo">CONSULTAR POR CODIGO</string>
+    <string name="consultardescripcion">CONSULTAR POR DESCRIPCION</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="ecodigo">Ingrese Codigo</string>
+    <string name="edescripcion">Ingrese Descripcion</string>
+    <string name="eprecio">Ingrese Precio</string>
+    <string name="db">BASE DE DATOS</string>
+</resources>
